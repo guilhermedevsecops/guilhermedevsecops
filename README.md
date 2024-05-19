@@ -1,9 +1,9 @@
 # Guilherme Henrique de Sousa Jesus (guidevsec) 
-Bem vindo ao meu perfil no github!<br><br>
-Sou Formado em Analise e Desenvolvimento de Sistemas, Pós-graduado em Cybersecurity e MBA em Banco de Dados e Formando em Arquitetura de Software em Java.
+Bem-vindo ao meu perfil no GitHub!
 
-Caso deseje ver minhas referencias proficionais ou então entrar em contato acesse meu linkedin
+Sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Cybersecurity e MBA em Banco de Dados. Estou em processo de formação em Arquitetura de Software em Java.
 
+Se você quiser ver minhas referências profissionais ou entrar em contato, visite meu &nbsp;&nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-de-sousa-jesus-27ab731b7/)     
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Avatar](https://github.com/guilhermedevsecops/guilhermedevsecops/blob/main/avatar.png?raw=true)
