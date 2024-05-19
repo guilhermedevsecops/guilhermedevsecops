@@ -12,7 +12,7 @@ Caso deseje ver minhas referencias proficionais ou então entrar em contato aces
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Giff](https://github.com/guilhermedevsecops/guilhermedevsecops/blob/main/comedy-cheat-codes-error.gif?raw=true)
 
 
-### Segurança e Sistemas Operacionais
+## Segurança e Sistemas Operacionais
  
 ![CyberSecurity](https://img.shields.io/badge/CyberSecurity-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 
@@ -33,7 +33,7 @@ Caso deseje ver minhas referencias proficionais ou então entrar em contato aces
   - Scripts Crontab
   - ...
 
-### Desenvolvimento Backend
+## Desenvolvimento Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -75,8 +75,8 @@ Caso deseje ver minhas referencias proficionais ou então entrar em contato aces
   - TKInter
   - Libs de Conexão com bancos de dados
 
-<hr/>
-### Desenvolvimento FrontEnd
+
+## Desenvolvimento FrontEnd
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   - Desenvolvimento de UI graficas para usuários
@@ -90,8 +90,8 @@ Caso deseje ver minhas referencias proficionais ou então entrar em contato aces
   - JavaScript
   - BootStrap  
 
-<hr/>
-### Banco de Dados e Gerenciamento de Filas
+
+## Banco de Dados e Gerenciamento de Filas
     
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
