@@ -1,20 +1,22 @@
 # Guilherme Henrique de Sousa Jesus (guidevsec) 
-Bem vindo ao meu perfil no github!
+Bem vindo ao meu perfil no github!<br><br>
 Sou Formado em Analise e Desenvolvimento de Sistemas, Pós-graduado em Cybersecurity e MBA em Banco de Dados e Formando em Arquitetura de Software em Java.
 
 Caso deseje ver minhas referencias proficionais ou então entrar em contato acesse meu linkedin
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-de-sousa-jesus-27ab731b7/)     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Avatar](https://github.com/guilhermedevsecops/guilhermedevsecops/blob/main/avatar.png?raw=true)   
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Avatar](https://github.com/guilhermedevsecops/guilhermedevsecops/blob/main/avatar.png?raw=true)
 # Conhecimentos 🧠
 
- Segurança e Sistemas Operacionais
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Giff](https://github.com/guilhermedevsecops/guilhermedevsecops/blob/main/comedy-cheat-codes-error.gif?raw=true)
+
+
+### Segurança e Sistemas Operacionais
  
 ![CyberSecurity](https://img.shields.io/badge/CyberSecurity-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 
-  - Firewall SonicWall
+  - Firewall SonicWall                                                            
   - Firewall Fortigate
   - SOC - Zabbix
   - Pentest with Kali Linux
@@ -30,8 +32,8 @@ Caso deseje ver minhas referencias proficionais ou então entrar em contato aces
   - Domain Controller
   - Scripts Crontab
   - ...
-<hr>
-Desenvolvimento Backend
+
+###Desenvolvimento Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -74,9 +76,7 @@ Desenvolvimento Backend
   - Libs de Conexão com bancos de dados
 
 <hr/>
-Desenvolvimento FrontEnd
-
-
+### Desenvolvimento FrontEnd
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   - Desenvolvimento de UI graficas para usuários
@@ -91,7 +91,7 @@ Desenvolvimento FrontEnd
   - BootStrap  
 
 <hr/>
-Banco de Dados e Gerenciamento de Filas
+### Banco de Dados e Gerenciamento de Filas
     
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
