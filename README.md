@@ -1,106 +1,92 @@
-# Guilherme Henrique de Sousa Jesus (guidevsec) 
-Bem-vindo ao meu perfil no GitHub!
+# Guilherme Henrique de Sousa Jesus
+**Analista e Desenvolvedor de Sistemas | Especialista em Cybersecurity e Banco de Dados**  
 
-Sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Cybersecurity e MBA em Banco de Dados. Estou em processo de formação em Arquitetura de Software em Java.
+Atualmente atuo no **Centro Brasileiro de Cirurgia de Olhos - Goiânia**, desenvolvendo sistemas ERP para gestão hospitalar, com foco em:
 
-Se você quiser ver minhas referências profissionais ou entrar em contato, visite meu &nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-de-sousa-jesus-27ab731b7/)     
+- Desenvolvimento backend e frontend de sistemas corporativos  
+- Integração e administração de bancos de dados  
+- Segurança de sistemas e auditoria de dados  
+- Implantação de novas funcionalidades e melhorias contínuas  
+- Suporte técnico Nível 3 (resolução de incidentes complexos)  
+- Manutenção e evolução do código do sistema core da empresa  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Avatar](https://github.com/guilhermedevsecops/guilhermedevsecops/blob/main/avatar.png?raw=true)
-# Conhecimentos 🧠
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-de-sousa-jesus-27ab731b7/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Giff](https://github.com/guilhermedevsecops/guilhermedevsecops/blob/main/comedy-cheat-codes-error.gif?raw=true)
+---
 
+## 🏆 Projetos e Resultados
 
-## Segurança e Sistemas Operacionais
- 
-![CyberSecurity](https://img.shields.io/badge/CyberSecurity-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
+- Atualização da **fonte de criptografia** de certificado digital  
+- Adaptação de código Delphi para **Spring Boot e ReactJS** (módulo de preços)  
+- Melhorias e incrementos em código Delphi e Java para **módulo de Nota Fiscal de Serviço**  
+- Adaptação do sistema de **marcação de consultas online**, incluindo otimização de queries e envio de e-mails  
+- Desenvolvimento de **script de monitoramento de auditoria** para arquivos excluídos ou alterados  
+- Participação na **migração e unificação de bases de dados**  
+- Ativação e integração de fluxos de envio de APIs de chamadas  
+- Desenvolvimento backend inicial para integração do sistema **SIENGE com NodeJS e VenomBot** (chatbot)  
+- Implantação de **Active Directory com redundância**, garantindo alta disponibilidade  
+- Criação em Python de scripts para **mesclagem de arquivos PDF**  
+- Integração de API do sistema **EPA (Estratégia para Ação)** ao Zabbix, com abertura automática de chamados  
+- Conexão e monitoramento de dispositivos de rede via **SNMP**, integrando alertas ao Telegram  
 
-  - Firewall SonicWall                                                            
-  - Firewall Fortigate
-  - SOC - Zabbix
-  - Pentest with Kali Linux
-  - MitreAttak
+---
 
-![Linux](https://img.shields.io/badge/Linux-A81D33?style=for-the-badge&logo=Linux&logoColor=white)
-  - SSH
-  - Databases
-  - Logs Controll
-  - Logs de Auditoria
-  - Instalação e gerenciamento de ambientes
-  - Samba
-  - Domain Controller
-  - Scripts Crontab
-  - ...
+## 💻 Ferramentas e Tecnologias
 
-## Desenvolvimento Backend
+### Linguagens de Programação
+- Java (POO/Core Java)  
+- Java (Spring Boot)  
+- Delphi  
+- JavaScript / NodeJS  
+- Python  
+- AnsiSQL  
+- Bash  
+- PHP (Básico)
+- ReactJS
+- TypeScript
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  - SpringBoot
-  - SpringWeb
-  - Swagger
-  - KeyLoker
-  - Microserviços
-  - Jasper
-  - SpringWeb
-  - SpringSecurity
-  - JPA
-  - Hibernate
-  - Lombok
-  - ...
+### Banco de Dados
+- Firebird  
+- PostgreSQL  
+- MySQL    
 
+### Frameworks e Ferramentas
+- Maven  
+- PrimeReact / MaterialUI  
+- Figma  
+- Docker  
+- Postman / Insomnia  
+- React Router Dom / Redux / Axios  
+- Spring Security / Spring Web  
+- Zabbix / Grafana (monitoramento integrado com banco de dados)  
+- Linux (Debian e distribuições relacionadas)  
+- Apache / Tomcat  
+- Samba (normal e Active Directory - DC)  
+- Shell Script e automação de tarefas  
 
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  - Express
-  - Mongose
-  - Jest
-  - Sequelize
-  - BCrypt
-  - Passport
-  - Axios
-  - JWT
-  -  ...
+### Infraestrutura e Segurança
+- Switches, roteadores e firewalls  
+- Pentest, auditorias e segurança de servidores  
+- Integração de ferramentas de segurança com sistema de chamados  
+- Administração de APs e servidores UNIFI  
+- Virtualização: Proxmox e VMware  
+- Montagem e manutenção de computadores  
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  - Compose
-  - Criação de sitema MVC sem utilização de bibliotecas auxiliares
-  - Adianti PHP
+---
 
+## ⚙️ Boas Práticas e Metodologias
+- Controle de versões com Git/GitHub  
+- Desenvolvimento seguindo **padrões MVC** e boas práticas de código  
+- Trabalhando com **microserviços e APIs REST**  
+- Refatoramento de código e adaptação de banco de dados  
+- Aplicação de **práticas DevSec** para segurança de código  
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  - Pandas
-  - Selenium
-  - Requests
-  - TKInter
-  - Libs de Conexão com bancos de dados
+---
 
-
-## Desenvolvimento FrontEnd
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  - Desenvolvimento de UI graficas para usuários
-  - Criação de frontend para conexão com backend
-  - Criação de Sistemas com firebase
-  - Axios
-  - React Router Dom
-  - React Icons
-  - PrimeReact
-  - e outros ...
-  - JavaScript
-  - BootStrap  
-
-
-## Banco de Dados e Gerenciamento de Filas
-    
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-  - Querys
-  - Procedures
-  - Administração
-  - Roles
-  - Rotinas
-
+## 🌟 Diferenciais Profissionais
+- Experiência simultânea como **Analista de TI e Desenvolvedor**, permitindo identificação rápida de problemas em software ou infraestrutura  
+- Capacidade de **analisar fluxos de ERP hospitalar junto ao cliente**, garantindo aderência às necessidades do departamento  
+- Suporte técnico avançado aliado à habilidade de programação, permitindo resolução de problemas complexos  
+- Amplo conhecimento em **redes, servidores e segurança da informação**, facilitando configuração de ambientes e desenho de fluxos seguros  
+- Experiência com **implantação e manutenção de sistemas corporativos**  
+- Foco em **segurança, DevSecOps e boas práticas de desenvolvimento**  
